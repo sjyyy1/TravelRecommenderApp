@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primaryTextColor">#333333</color>
+    <color name="cardBackgroundColor">#FFFFFF</color>
+    <color name="cardElevationColor">#E0E0E0</color>
+    <color name="dividerColor">#BDBDBD</color>
+    <color name="backgroundColor">#F5F5F5</color>
+    <color name="ThemeColor">#87CEFA</color>
+    <color name="LThemeColor">#8087CEFA</color>
+    <color name="Select">#6495ED</color>
+    <color name="text">#000000</color>
+</resources>
